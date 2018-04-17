@@ -4,6 +4,7 @@ echo "# Mi-pagina" >> README.md
 git init 
 git agregar README.md 
 git commit -m "first commit" 
-git remote add origen https://github.com/Jhoann-Vega/Mi-pagina.git
+git remote add origen 
+
  git push -u maestro de origen
  
